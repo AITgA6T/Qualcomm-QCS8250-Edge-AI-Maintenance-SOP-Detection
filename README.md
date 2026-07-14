@@ -9,8 +9,6 @@
 3.  It supports Android for AI development
 
 ## Performance Metrics
-
-- **AI Model**:
 - AI Model: YOLO-NAS、Mediapipe、HRNet
 
 ## Hardware
