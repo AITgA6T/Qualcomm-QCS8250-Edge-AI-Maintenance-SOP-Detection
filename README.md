@@ -42,5 +42,5 @@ All processing takes place on the edge device, ensuring better privacy and data 
 
 ### Demo:
 
-
+<img src="QCS8250 維修SOP.assets/media/demo.gif" width="720" />
 
