@@ -13,7 +13,7 @@
 
 ## Hardware
 
-- **Platform**: Qualcomm QCS8250
+- **Platform**: Qualcomm QCS8250[https://www.qualcomm.com/internet-of-things/products/q8-series/qcs8250]
 - **Cameras**:  USB Camera × 1
 
 ## Software & Toolkit
