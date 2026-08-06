@@ -38,7 +38,13 @@ All processing takes place on the edge device, ensuring better privacy and data 
 
 <img src="QCS8250 維修SOP.assets/media/2.PNG"/>
 
-### Demo:
+## Demo:
 
 <img src="QCS8250 維修SOP.assets/media/demo.gif" width="720" />
 
+## Contact
+If you require any further information, please feel free to contact:
+
+TW: qualcomm.tw@aitgroup.com.tw
+
+CN: qualcomm.cn@aitgroup.com.tw
